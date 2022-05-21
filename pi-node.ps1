@@ -1,7 +1,7 @@
 #
 # Install chrome extension
 #
-# https://chrome.google.com/webstore/detail/check-my-public-and-priva/nmhkffmkjbepohgmonlkfoifdbncbgbl
+# https://bit.ly/pinodeipv4
 #
 
 # open 31400-31409
@@ -17,6 +17,8 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 # install docker-desktop
 
 choco install docker-desktop -y
+
+docker pull pinetwork/pi-node-docker
 
 
 # install pinode
