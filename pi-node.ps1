@@ -1,7 +1,7 @@
 #
 # Install chrome extension
 #
-# https://bit.ly/pinodeipv4
+# ( https://bit.ly/pinodeipv4 )
 #
 
 # open 31400-31409
