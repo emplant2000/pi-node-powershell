@@ -1,5 +1,7 @@
 #
-# Install chrome extension
+# pls execute as Powershell (Administrtor)
+#
+# Install chrome extension at first for checking your Private and Global IP addresses :D
 #
 # https://bit.ly/pinodeipv4
 #
