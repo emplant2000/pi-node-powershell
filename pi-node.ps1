@@ -10,6 +10,7 @@
 
 netsh -f pinode.netsh
 
+# advfirewall firewall add rule name="Pi Network Docker CMD" dir=in action=allow protocol=TCP localport=31400-31409 enable=yes profile=any >nul
 
 # Enviroment
 
